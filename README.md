@@ -3,3 +3,4 @@
 1º Tarea. ¿Quién es el creador de Git?
 
 Linux troval
+Linus Torvalds
